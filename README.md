@@ -1,6 +1,6 @@
 # Hesykhos
 
-This application helps you lower your stress level with the cardiac coherance technique.
+This application helps you lower your stress level with the cardiac coherence technique.
 Cardiac coherence is a relaxation technique based on breathing. 
 
 # Privacy Policy
